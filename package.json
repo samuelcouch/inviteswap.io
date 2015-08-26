@@ -1,0 +1,24 @@
+{
+  "name": "inviteswap.io",
+  "version": "0.0.1",
+  "description": "Swap and request invites for various platforms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelcouch/inviteswap.io.git"
+  },
+  "keywords": [
+    "invite",
+    "swap",
+    "share"
+  ],
+  "author": "Sam Couch <sam@couch.rocks>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samuelcouch/inviteswap.io/issues"
+  },
+  "homepage": "https://github.com/samuelcouch/inviteswap.io#readme"
+}
